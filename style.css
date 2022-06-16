@@ -1,1 +1,13 @@
-style.css
+span {
+    background-color: rgb(65, 159, 196);
+  }
+  .container-flex {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  @media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
+   
